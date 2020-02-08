@@ -3,4 +3,4 @@ sphinx
 
 numpy
 pandas
-
+sklearn
