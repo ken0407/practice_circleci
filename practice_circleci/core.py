@@ -6,4 +6,4 @@ class int_num():
         self.value += y
 
     def diff(self, y):
-        self.diff += y
+        self.value -= y
